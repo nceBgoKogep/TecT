@@ -1,0 +1,3 @@
+﻿module Useful
+
+let killerFunction () = ()
